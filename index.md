@@ -300,65 +300,6 @@ and our administrator may contact you if we need any extra information.</h4>
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-<div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
-  <h3>Text Editor</h3>
-
-  <p>
-    When you're writing code, it's nice to have a text editor that is
-    optimized for writing code, with features like automatic
-    color-coding of key words.  The default text editor on macOS and
-    Linux is usually set to Vim, which is not famous for being
-    intuitive.  If you accidentally find yourself stuck in it, try
-    typing the escape key, followed by <code>:q!</code> (colon, lower-case 'q',
-    exclamation mark), then hitting Return to return to the shell.
-  </p>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="editor-windows">Windows</h4>
-      <p>
-        nano is a basic editor and the default that instructors use in the workshop.
-        It is installed along with Git.
-      </p>
-      <p>
-        Others editors that you can use are
-        <a href="https://notepad-plus-plus.org/">Notepad++</a> or
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
-        <strong>Be aware that you must
-          add its installation directory to your system path.</strong>
-        Please ask your instructor to help you do this.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="editor-macosx">macOS</h4>
-      <p>
-        nano is a basic editor and the default that instructors use in the workshop.
-        See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
-        for an example on how to open nano.
-        It should be pre-installed.
-      </p>
-      <p>
-        Others editors that you can use are
-        <a href="https://www.barebones.com/products/textwrangler/">Text Wrangler</a> or
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="editor-linux">Linux</h4>
-      <p>
-        nano is a basic editor and the default that instructors use in the workshop.
-        It should be pre-installed.
-      </p>
-      <p>
-        Others editors that you can use are
-        <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
-        <a href="https://kate-editor.org/">Kate</a> or
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
-      </p>
-    </div>
-  </div>
-</div> {% comment %} End of 'editor' section. {% endcomment %}
-
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
